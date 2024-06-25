@@ -72,4 +72,9 @@ The application is deployed using Netlify. Follow these steps to deploy your own
      - **Build command**: `npm run build`
      - **Publish directory**: `build`
    - Deploy the site.
+  
+## Contact 📞
+
+#### If you have any doubt feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal48/)
+
 
